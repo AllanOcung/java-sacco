@@ -1,0 +1,9 @@
+*.class
+*.log
+ClientHandler.java
+Contribution.java
+Database.java
+Loan.java 
+LoanApplication.java 
+SaccoMember.java
+UprizeClient.java

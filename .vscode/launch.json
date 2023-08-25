@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Paranoid_42828e74"
+        },
+        {
+            "type": "java",
+            "name": "UprizeClient",
+            "request": "launch",
+            "mainClass": "UprizeClient",
+            "projectName": "Paranoid_42828e74"
+        },
+        {
+            "type": "java",
+            "name": "UprizeClient",
+            "request": "launch",
+            "mainClass": "UprizeClient",
+            "projectName": "Paranoid1_9be2c97a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Paranoid1_9be2c97a"
+        },
+        {
+            "type": "java",
+            "name": "LoanRepaymentSchedule",
+            "request": "launch",
+            "mainClass": "LoanRepaymentSchedule",
+            "projectName": "Paranoid_3955a1ac"
+        },
+        {
+            "type": "java",
+            "name": "UprizeClient",
+            "request": "launch",
+            "mainClass": "UprizeClient",
+            "projectName": "Paranoid_3955a1ac"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Paranoid_3955a1ac"
+        },
+        {
+            "type": "java",
+            "name": "UprizeClient",
+            "request": "launch",
+            "mainClass": "UprizeClient",
+            "projectName": "Paranoid_916a6997"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Paranoid_916a6997"
+        },
+        {
+            "type": "java",
+            "name": "LoanRepaymentCalculator",
+            "request": "launch",
+            "mainClass": "LoanRepaymentCalculator",
+            "projectName": "Paranoid_916a6997"
+        },
+        {
+            "type": "java",
+            "name": "UprizeClient",
+            "request": "launch",
+            "mainClass": "UprizeClient",
+            "projectName": "Paranoid_dfa1fc8f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Paranoid_dfa1fc8f"
+        }
+    ]
+}
