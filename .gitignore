@@ -2,4 +2,3 @@
 *.log
 ClientHandler.java
 Contribution.java
-Database.java
